@@ -60,3 +60,7 @@ questions = [
 for q, a in questions:
     cursor.execute("INSERT INTO questions (question, answer) VALUES (?, ?)", (q, a))
 ```
+# Команду бота:
+ ```
+/add_question "Столица Германии?" "Берлин"
+```
