@@ -15,7 +15,7 @@
 1. Клонируйте репозиторий:
 ```
 git clone https://github.com/TheLastSurvived/question-bot.git
-cd quiz-bot
+cd question-bot
 ```
 2. Перед использованием установите необходимые зависимости:
  ```
