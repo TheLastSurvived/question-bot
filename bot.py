@@ -15,7 +15,7 @@ from telegram.ext.filters import TEXT, COMMAND
 # Настройки бота
 TOKEN = ''
 DB_NAME = 'quiz_bot.db'
-YOUR_ADMIN_ID = ''
+YOUR_ADMIN_ID = 123456789 # id должен быть числом 
 
 # Инициализация базы данных
 def init_db():
